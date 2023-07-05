@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "moremomostories:duck_kao"
+    },
+    "title": {
+      "translate": "com.hileb.achievement.lx.title"
+    },
+    "description": {
+      "translate": "com.hileb.achievement.lx.desc"
+    },
+    "show_toast": true ,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "moremomostories:moremomostories/meetvan",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

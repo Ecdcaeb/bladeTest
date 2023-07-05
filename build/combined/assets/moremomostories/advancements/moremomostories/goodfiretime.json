@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "moremomostories:item_add_entityzq_item"
+    },
+    "title": {
+      "translate": "com.hileb.achievement.goodfiretime.title"
+    },
+    "description": {
+      "translate": "com.hileb.achievement.goodfiretime.desc"
+    },
+    "show_toast": true ,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "moremomostories:moremomostories/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

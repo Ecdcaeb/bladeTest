@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "moremomostories:item_paper_idonotwanttodie"
+    },
+    "title": {
+      "translate": "com.hileb.achievement.dream1.title"
+    },
+    "description": {
+      "translate": "com.hileb.achievement.dream1.desc"
+    },
+    "show_toast": true ,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "moremomostories:moremomostories/scene1",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

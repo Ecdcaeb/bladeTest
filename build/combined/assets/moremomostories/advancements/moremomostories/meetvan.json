@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bed"
+    },
+    "title": {
+      "translate": "com.hileb.achievement.meetvan.title"
+    },
+    "description": {
+      "translate": "com.hileb.achievement.meetvan.desc"
+    },
+    "show_toast": true ,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "moremomostories:moremomostories/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
